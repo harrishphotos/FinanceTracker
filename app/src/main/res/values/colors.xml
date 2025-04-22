@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- 60-30-10 Rule Colors -->
+    <color name="primary">#00796B</color>          <!-- Teal (60%) -->
+    <color name="primary_dark">#004D40</color>     <!-- Darker Teal -->
+    <color name="accent">#FF7043</color>            <!-- Coral (10%) -->
+    <color name="background">#F5F5F5</color>       <!-- Light Gray (30%) -->
+    <color name="card_background">#FFFFFF</color>    <!-- White (Part of 30%) -->
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#212121</color>     <!-- Almost Black -->
+    <color name="text_secondary">#757575</color>    <!-- Medium Gray -->
+    
+    <!-- Specific Colors -->
+    <color name="income_green">#4CAF50</color>      <!-- Green -->
+    <color name="expense_red">#F44336</color>       <!-- Red -->
+    <color name="progress_bg">#E0E0E0</color>      <!-- Light Gray for Progress Background -->
+</resources>
